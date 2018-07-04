@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week12-week12_49.WormGame" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="wormgame.Main" />
+    <module name="week12-week12_49.WormGame" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>
